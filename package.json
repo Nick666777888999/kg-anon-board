@@ -1,0 +1,15 @@
+{
+  "name": "kg-anon-board",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "latest",
+    "@supabase/supabase-js": "latest"
+  }
+}
